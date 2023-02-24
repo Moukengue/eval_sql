@@ -19,3 +19,4 @@ ORDER BY CA  DESC
 
 Q. 6- Liste des pays dans lesquels des produits fournis par "Exotic Liquids" ont été livrés
 Q. 7- Chiffre d'affaires global sur les ventes de 1997
+ dfdfdfdf
